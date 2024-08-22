@@ -8,18 +8,15 @@ I'm a student passionate about web development and programming. In my free time,
 - **Other:** Git, HTML/CSS
 
 ## 💻 Projects
-- [Project 1](link): Description of the project.
-- [Project 2](link): Description of the project.
-- [Project 3](link): Description of the project.
+-  see my repositories
 
 ## 🌱 Currently Learning
-I'm always looking to expand my skills and knowledge. Currently, I'm focusing on improving my skills in [mention what you're learning].
+I'm always looking to expand my skills and knowledge. Currently, I'm focusing on improving my skills in Web development and data usages.
 
 ## 📫 How to Reach Me
-- Email: desmetlars@gmail.com
-- Personal Website/Blog: [Add your website/blog link here]
+- Email: desmetlars5@gmail.com
 
 Feel free to reach out to me if you want to collaborate on projects or just chat about coding and music!
 
 ## 🎸 Hobbies
-When I'm not coding, you can find me playing guitar or [mention other hobbies].
+When I'm not coding, you can find me playing guitar or outside.

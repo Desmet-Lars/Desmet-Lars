@@ -1,22 +1,38 @@
-# Hi there, I'm Lars Desmet! 👋
+# Hey, I'm Lars 👋
 
-I'm a student passionate about web development and programming. In my free time, I enjoy creating websites and playing guitar. Currently, I'm actively seeking opportunities for a student job where I can apply and enhance my skills.
+I'm a student at HOGENT in Ghent, and I'd rather be shipping something than reading about it.
 
-## 🚀 Skills
-- **Programming Languages:** Python, JavaScript (React, Node.js), PHP
-- **Frameworks/Libraries:** Flask, Angular, Next.js
-- **Other:** Git, HTML/CSS
+## 🛠️ Right now: GentStudeert
 
-## 💻 Projects
--  see my repositories
+I'm a developer at [GentStudeert](https://gentstudeert.be), a free platform with practice exams and flashcards for university students in Ghent, written by students who already passed the course.
 
-## 🌱 Currently Learning
-I'm always looking to expand my skills and knowledge. Currently, I'm focusing on improving my skills in Web development and data usages.
+What's live:
 
-## 📫 How to Reach Me
-- Email: desmetlars5@gmail.com
+- **Course finder**: 20 bachelor programmes, from Law to Medicine. Pick your programme, then your year, then your course, and you're straight into the practice questions.
+- **Practice exams & flashcards**: exam-style questions per course, kept up to date with help from students who just passed.
+- **Accounts & progress tracking**: log in to keep track of what you've studied. You don't need an account to start.
+- **Contribute & earn**: students submit their own exam questions or report mistakes. Approved contributions earn credits.
+- **Light & dark mode**.
 
-Feel free to reach out to me if you want to collaborate on projects or just chat about coding and music!
+What I'm building next:
 
-## 🎸 Hobbies
-When I'm not coding, you can find me playing guitar or outside.
+- **Whiteboard per course**: write, draw and make diagrams, with your slides or PDFs on the board to annotate.
+- **My documents**: upload summaries, slides and notes per course, organised in folders.
+
+Built with **Next.js**.
+
+## 🧰 What I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,js,python,flask,php,angular,git&perline=10" />
+</p>
+
+Mostly **Next.js, React and Node**. **Python and Flask** when I need a quick backend or a script. **PHP and Angular** when someone else's codebase demands it.
+
+## 🎸 Off the keyboard
+
+Guitar, too loud. Outside, when Ghent lets me.
+
+## 📫 Contact
+
+desmetlars5@gmail.com
